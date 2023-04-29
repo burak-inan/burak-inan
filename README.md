@@ -21,7 +21,7 @@ I'm Full-Stack Java Developer with a passion for Science
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" width="52" alt="vscode logo"  /></a>
 <a href="https://tr.linkedin.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" width="52" alt="linkedin logo"  /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" width="52" alt="github logo"  /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px"  src="https://www.wizcase.com/wp-content/uploads/2022/08/CapCut-app-Logo-Transparent.png" height="50" width="52" alt="github logo"  /></a>  
 </div>
 
 </td><td valign="top" width="33%">
