@@ -35,7 +35,7 @@ I'm Full-Stack Java Developer with a passion for Science
 <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a> 
 <a href="https://www.canva.com/tr_tr/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" width="52" alt="canva logo"  /></a> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" width="52" alt="github logo"  />
+<img src="https://www.pngwing.com/en/free-png-inggo" height="50" width="52" alt="github logo"  />
 </div>
 
 </td><td valign="top" width="33%">
