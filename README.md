@@ -49,7 +49,7 @@ I'm Full-Stack Java Developer with a passion for Science
 </td><td valign="top" width="33%"> 
 
 <br/> 
-  e
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=burak-inan&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
