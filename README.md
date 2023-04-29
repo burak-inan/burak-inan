@@ -38,7 +38,7 @@ I'm Full-Stack Java Developer with a passion for Science
 <a href="https://www.canva.com/tr_tr/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" width="52" alt="canva logo"  /></a> 
 <a href="https://www.blackmagicdesign.com/tr/products/davinciresolve" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" height="55"  alt="davinci resolve logo"  /></a> 
 <a href="https://www.capcut.com/tr-tr/" target="_blank"><img style="margin: 10px" src="https://www.wizcase.com/wp-content/uploads/2022/08/CapCut-app-Logo-Transparent.png" height="50" alt="capcut logo"  /></a> 
-<a href="https://www.movavi.com/" target="_blank"><img style="margin: 10px" src="https://w7.pngwing.com/pngs/274/241/png-transparent-movavi-video-editor-video-editing-software-film-editing-software-cracking-others-thumbnail.png" height="50" alt="movavi logo"  /></a>
+<a href="https://www.movavi.com/" target="_blank"><img style="margin: 10px" src="https://www.clipartmax.com/middle/m2H7m2i8Z5K9m2Z5_movavi-video-editor-movavi-video-editor-logo-png/" height="50" alt="movavi logo"  /></a>
 
 </div>
 
