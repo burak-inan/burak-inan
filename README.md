@@ -34,7 +34,11 @@ I'm Full-Stack Java Developer with a passion for Science
 <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+</td><td valign="top" width="33%">
+
+
+
+</td><td valign="top" width="33%"> 
 
 <br/> 
   
