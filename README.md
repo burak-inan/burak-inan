@@ -21,6 +21,7 @@ I'm Full-Stack Java Developer with a passion for Science
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" width="52" alt="vscode logo"  /></a>
 <a href="https://tr.linkedin.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" width="52" alt="linkedin logo"  /></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" width="52" alt="github logo"  /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -36,7 +37,7 @@ I'm Full-Stack Java Developer with a passion for Science
 <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a> 
 <a href="https://www.canva.com/tr_tr/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" width="52" alt="canva logo"  /></a> 
 <a href="https://www.blackmagicdesign.com/tr/products/davinciresolve" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" height="50" width="52" alt="github logo"  /></a> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" width="52" alt="github logo"  /> 
+
 </div>
 
 </td><td valign="top" width="33%">
