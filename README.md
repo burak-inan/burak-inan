@@ -1,9 +1,9 @@
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=30&pause=1000&color=D29012&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Yasin;Welcome+to+my+GitHub+page)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=30&pause=1000&color=D29012&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Burak;Welcome+to+my+GitHub+page)](https://git.io/typing-svg)
 
 <img src="https://www.opcito.com/hs-fs/hubfs/DevOps-CI-CD_03.gif?width=600&height=400&name=DevOps-CI-CD_03.gif" align="right" width="340" height="190">
 
 ## Socials:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasin-kaya/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burak-inan-885949292/)
 
 # 💫 About Me:
 I'm Full-Stack Java Developer with a passion for Science
