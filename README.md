@@ -9,7 +9,7 @@
 I'm Full-Stack Java Developer with a passion for Science
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -33,7 +33,7 @@ I'm Full-Stack Java Developer with a passion for Science
 
 </td><td valign="top" width="33%">
   
-# 🪄 Design Tools  
+## 🪄 Design Tools  
 <div align="center">  
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>
@@ -53,7 +53,7 @@ I'm Full-Stack Java Developer with a passion for Science
 <br/> 
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=burak-inan&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=burak-inan&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=burak-inan&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
