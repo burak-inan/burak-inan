@@ -4,6 +4,7 @@
 
 ## Socials:
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" align="right" width="340" height="190">
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burak-inan-885949292/)
 
 
