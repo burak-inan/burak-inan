@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burak-inan)
 
-
+<audio src="https://www.youtube.com/watch?v=YYkBSyoZxXQ" autoplay ></audio>
 
 ## 💫 About Me:
 I'm Full-Stack Java Developer with a passion for Science
