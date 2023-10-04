@@ -54,8 +54,7 @@ I'm Full-Stack Java Developer with a passion for Science
 
 </td><td valign="top" width="33%"> 
 
-<br/> 
-<audio src="./x2mate.com - Spy (2015) (OST) Gin Wigmore - _Kill Of The Night_ (320 kbps).mp3" autoplay ></audio>
+<br/>
 
 
 ## 📊 GitHub Stats:
