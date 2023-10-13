@@ -14,6 +14,7 @@
 I'm Full-Stack Java Developer with a passion for Science
 
 <br/>
+
 ## 💻 Tech Stack:
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -37,6 +38,7 @@ I'm Full-Stack Java Developer with a passion for Science
 </td><td valign="top" width="33%">
   
 <br/>  
+
 ## 🪄 Design Tools  
 <div align="center">  
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
