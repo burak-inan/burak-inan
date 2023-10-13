@@ -13,7 +13,7 @@
 ## 💫 About Me:
 I'm Full-Stack Java Developer with a passion for Science
 
-<br/>
+<br/><br/>
 
 ## 💻 Tech Stack:
 <div align="center">  
@@ -37,7 +37,7 @@ I'm Full-Stack Java Developer with a passion for Science
 
 </td><td valign="top" width="33%">
   
-<br/>  
+<br/><br/>  
 
 ## 🪄 Design Tools  
 <div align="center">  
@@ -56,7 +56,7 @@ I'm Full-Stack Java Developer with a passion for Science
 
 </td><td valign="top" width="33%"> 
 
-<br/>
+<br/><br/>
 
 
 ## 📊 GitHub Stats:
