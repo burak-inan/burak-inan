@@ -8,11 +8,11 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burak-inan)
 
 
-
+<div style="margin: 10px"></div>
 
 ## 💫 About Me:
 I'm Full-Stack Java Developer with a passion for Science
-<div style={margin-top:"200px"}>""</div>
+
 
 ## 💻 Tech Stack:
 <div align="center">  
