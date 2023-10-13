@@ -3,7 +3,7 @@
 <img src="https://www.opcito.com/hs-fs/hubfs/DevOps-CI-CD_03.gif?width=600&height=400&name=DevOps-CI-CD_03.gif" align="right" width="340" height="190">
 
 ## Socials:
-<span class="image-rounded" style="background: [https://github.com/burak-inan/burak-inan/blob/main/github_animation.gif] no-repeat 0 0; border-radius: 40px; display: inline-block;"><img src="https://github.com/burak-inan/burak-inan/blob/main/github_animation.gif" align="right" width="376" height="auto" style="visibility: hidden;" ></span>
+<span class="image-rounded" style="background: url(https://github.com/burak-inan/burak-inan/blob/main/github_animation.gif) no-repeat 0 0; border-radius: 40px; display: inline-block;"><img src="https://github.com/burak-inan/burak-inan/blob/main/github_animation.gif" align="right" width="376" height="auto" style="visibility: hidden;" ></span>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burak-inan)
 
