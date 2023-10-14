@@ -22,7 +22,7 @@ I'm Full-Stack Java Developer with a passion for Science
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
 <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" height="50" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" style="max-width: 100%;"></a>  
   <a href="https://hibernate.org/" target="_blank"><img alt="Hibernate" height="50" src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" style="max-width: 100%;"></a> 
-  <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/" target="_blank"><img alt="JDBC" height="70" src="https://www.oracle.com/a/ocom/img/jdbc.svg" style="max-width: 100%; margin-top: 10px"></a> 
+  <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/" target="_blank"><img alt="JDBC" height="70" src="https://www.oracle.com/a/ocom/img/jdbc.svg" style="max-width: 100%, margin-top: 10px;"></a> 
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a> 
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a> 
