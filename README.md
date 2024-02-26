@@ -31,6 +31,8 @@ I'm Full-Stack Java Developer with a passion for Science
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /> 
   <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://v4.webpack.js.org/d19378a95ebe6b15d5ddea281138dcf4.svg" alt="Webpack" height="50" /></a>
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+  <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="NextJs" height="50" /></a>  
+  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://en.wikipedia.org/wiki/TypeScript#/media/File:Typescript.svg" alt="TypeScript" height="50" /></a>  
   <a href="https://jestjs.io/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/Jest.svg" alt="Jest" height="50" /></a>  
 </div>
 
